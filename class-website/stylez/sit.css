@@ -90,3 +90,18 @@ a {
 .gridlover-grid body {
   box-shadow: 1px 0px 0px hsla(200, 100%, 50%, .3), -1px 0px 0px hsla(200, 100%, 50%, .3);
 }
+
+body {
+  width: 80%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.sites-list img {
+  width: 50%;
+}
